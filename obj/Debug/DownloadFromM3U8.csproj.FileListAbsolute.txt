@@ -1,0 +1,52 @@
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.AssemblyReference.cache
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\MainWindow.g.cs
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\App.g.cs
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\MainWindow.baml
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.Properties.Resources.resources
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.GenerateResource.cache
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.CoreCompileInputs.cache
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Buffers.dll
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Memory.dll
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Numerics.Vectors.dll
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Buffers.xml
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Memory.xml
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Numerics.Vectors.xml
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.CopyComplete
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\DownloadFromM3U8.exe.config
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\DownloadFromM3U8.exe
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\DownloadFromM3U8.pdb
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Buffers.dll
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Memory.dll
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Numerics.Vectors.dll
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Buffers.xml
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Memory.xml
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Numerics.Vectors.xml
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.AssemblyReference.cache
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\MainWindow.g.cs
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\App.g.cs
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8_MarkupCompile.cache
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8_MarkupCompile.lref
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\MainWindow.baml
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.g.resources
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.Properties.Resources.resources
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.GenerateResource.cache
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.CoreCompileInputs.cache
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.csproj.CopyComplete
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.exe
+C:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\DownloadFromM3U8.pdb
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\Download Video From M3U8.exe.config
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\Download Video From M3U8.exe
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\bin\Debug\Download Video From M3U8.pdb
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\Download Video From M3U8_MarkupCompile.cache
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\Download Video From M3U8_MarkupCompile.lref
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\Download Video From M3U8.g.resources
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\Download Video From M3U8.exe
+D:\Проекты программирование\Мои проекты\C Sharp\DownloadFromM3U8\obj\Debug\Download Video From M3U8.pdb
