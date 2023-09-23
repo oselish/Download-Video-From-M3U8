@@ -7,7 +7,7 @@ This program allows to download video from HTML page which has link to **.m3u8 p
 This repository is Visual Studio 2022 v17.7.3 WPF-project. Before launch program you need to:
 
 1. Compile the program.
-2. Download **FFmpeg** from [official github repository](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) and unpack downloaded archive to the folder with "Download Video From M3U8.exe". The root folder of the project should look something like this
+2. Download **FFmpeg** from [official github repository](https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip) and unpack the downloaded archive to the folder with "Download Video From M3U8.exe".
 
 # Getting started
 
