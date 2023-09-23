@@ -14,12 +14,17 @@ This repository is Visual Studio 2022 v17.7.3 WPF-project. Before launch program
 ![](README/1.png)
 
 1. Input link to the HTML web page.
+<br/>
    ![](README/2.png)
-2. Choose folder for file.
+3. Choose folder for file.
+<br/>
    ![](README/3.png)
-3. The download has started.
+5. The download has started.
+<br/>
    ![](README/4.png)
-4. When the download is completed you will see this pop-up window.
+7. When the download is completed you will see this pop-up window.
+<br/>
    ![](README/5.png)
-5. Now you can open folder with downloaded file or open file by clicking the appropriate buttons.
+9. Now you can open folder with downloaded file or open file by clicking the appropriate buttons.
+<br/>
    ![](README/6.png)
